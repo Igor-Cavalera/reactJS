@@ -1,7 +1,8 @@
+<p>Conhecendo suas funcionalidades</p>
+
 <h2>Conhecendo o react</h2>
  
 <h4>Preview do projeto</h4> 
-<h4>Conhecendo suas funcionalidades</h4>
 
 <p>Iniciando com um Bloco de notas</p>
 
